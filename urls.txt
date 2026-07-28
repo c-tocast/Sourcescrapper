@@ -1,3 +1,4 @@
 https://ai.google.dev/gemini-api/docs/prompting-strategies
 https://cloud.google.com/discover/what-is-prompt-engineering#what-is-a-prompt-for-ai
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/introduction-prompt-design
+https://gc.scalahed.com/recursos/files/r161r/w25945w/Logica%20y%20argumentacion.pdf
