@@ -2,3 +2,4 @@ https://ai.google.dev/gemini-api/docs/prompting-strategies
 https://cloud.google.com/discover/what-is-prompt-engineering#what-is-a-prompt-for-ai
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/introduction-prompt-design
 arxiv.org/html/2510.06265v3
+https://www.promptquorum.com/prompt-engineering/system-prompt-vs-user-prompt-whats-the-difference
