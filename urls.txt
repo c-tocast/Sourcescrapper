@@ -3,3 +3,4 @@ https://cloud.google.com/discover/what-is-prompt-engineering#what-is-a-prompt-fo
 https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/introduction-prompt-design
 arxiv.org/html/2510.06265v3
 https://www.promptquorum.com/prompt-engineering/system-prompt-vs-user-prompt-whats-the-difference
+https://nvidia.com/en-us/glossary/cot-prompting/
