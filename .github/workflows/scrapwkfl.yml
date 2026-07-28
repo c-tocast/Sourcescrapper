@@ -56,8 +56,8 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.DESTINATION_REPO_TOKEN }}
         with:
           source_file: 'knowledge/'           # La carpeta que quieres copiar
-          destination_repo: 'https://github.com/c-tocast/PCE-Sourcefeeding' # <--- ¡CAMBIA ESTO POR EL NOMBRE DE REP DESTINO! 
-          destination_folder: 'main'     # La carpeta dentro del repo destino donde aterrizarán los archivos
+          destination_repo: 'c-tocast/PCE-Sourcefeeding' # <--- ¡CAMBIA ESTO POR EL NOMBRE DE REP DESTINO! 
+          destination_folder: 'Knowledge'     # La carpeta dentro del repo destino donde aterrizarán los archivos
           user_email: 'david.tocoche@gmail.com'   # <--- Pon tu correo asociado a GitHub
           user_name: 'c-tocast'
           commit_message: 'Sincronización automática de archivos base de conocimiento'
